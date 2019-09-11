@@ -1,0 +1,59 @@
+.imgPerfil{
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.bold{
+    font-weight: 600;
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.content-block{
+    margin-top: 25px;
+    background-color: #00b0ff;
+    border-radius: 15px;
+}
+
+.last-content-block{
+    margin-bottom: 25px;
+}
+
+h2,h3,h4{
+    margin: 0;
+}
+
+.content-block-title{
+    background-color: #0081cb;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.content-block-body{
+    padding:5px;
+    padding-top: 10px;
+}
+
+.interessesMargin{
+    margin-top: 10px;
+}
+
+body{
+    font-family: 'OpenSans', sans-serif;
+    background-color: #202020;
+    color: #ffffff;
+}
+
+.navColor{
+    background-color: #ffffff;
+}
+
+img{
+    object-fit: scale-down;
+}
